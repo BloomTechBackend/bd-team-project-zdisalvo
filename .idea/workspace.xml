@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="590f05bb-338a-4101-8c06-1f2a7fbf4f6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/dynamodb/models/ClientIdSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/exceptions/InvalidAttributeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/exceptions/InvalidRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/util/CreateValidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/util/CreateValidPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bd-team-project-zdisalvo/com/amazon/ata/crm/service/dependency/ClientDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bd-team-project-zdisalvo/com/amazon/ata/crm/service/dynamodb/models/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bd-team-project-zdisalvo/com/amazon/ata/crm/service/dynamodb/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_java_project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/template_java_project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/activity/CreateClientActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/activity/CreateClientActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_java_project/src/com/amazon/ata/crm/service/util/CreateValidPhone.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/template_java_project">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UnitProject" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UnitProject" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UnitProject" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XQH7m9B8gOcH8PU61qmG2aC8xT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/zdisa/BloomTech/Unit4/Sprint13/Module2/bd-working-with-databases-music-playlist-service-zdisalvo/LibrariesAndUtilities/ATAResources.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.C:/Users/zdisa/BloomTech/Unit5/Sprint17/bd-team-project-zdisalvo/template_java_project/build.gradle [buildZip] (1)">
+    <configuration name="C:/Users/zdisa/BloomTech/Unit5/Sprint17/bd-team-project-zdisalvo/template_java_project/build.gradle [buildZip] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/template_java_project/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildZip" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/zdisa/BloomTech/Unit5/Sprint17/bd-team-project-zdisalvo/template_java_project/build.gradle [buildZip]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/template_java_project/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildZip" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/zdisa/BloomTech/Unit5/Sprint17/bd-team-project-zdisalvo/template_java_project/build.gradle [buildZip] (1)" />
+        <item itemvalue="Gradle.C:/Users/zdisa/BloomTech/Unit5/Sprint17/bd-team-project-zdisalvo/template_java_project/build.gradle [buildZip]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590f05bb-338a-4101-8c06-1f2a7fbf4f6c" name="Changes" comment="" />
+      <created>1698554218555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698554218555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
