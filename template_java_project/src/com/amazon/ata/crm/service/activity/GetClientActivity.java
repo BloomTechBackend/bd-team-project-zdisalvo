@@ -69,7 +69,7 @@ public class GetClientActivity implements RequestHandler<GetClientRequest, GetCl
                 .withClient(clientModel)
                 .build();
 
-        for()
+
     }
 
 }
