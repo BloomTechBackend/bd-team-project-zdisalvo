@@ -1,7 +1,7 @@
 package com.amazon.ata.crm.service.dynamodb.models;
 
 import com.amazon.ata.crm.service.converters.LogNoteLinkedListConverter;
-import com.amazonaws.services.dynamodbv2.datamodeling.*;
+    import com.amazonaws.services.dynamodbv2.datamodeling.*;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
